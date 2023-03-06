@@ -1,0 +1,428 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">    
+    
+    <title>Виртуальная (облачная) АТС на базе Asterisk | Stimul IT</title>
+		<meta name="description" content="Виртуальная (облачная) АТС на базе Asterisk">
+		<meta name="keywords" content="Виртуальная (облачная) АТС на базе Asterisk">
+	<meta name="google-site-verification" content="Gl6pKyqvbCtDfcLo_sfMKTg_3SJ0YnCAx7HpglQbo3w">
+	<meta name="yandex-verification" content="9982f02e733097c0">
+    <meta name="cmsmagazine" content="ee9ce5da44de3b7322b28a0b315a35fb">
+    <link rel="stylesheet" href="../../../css/main.css?v=003">
+    <link rel="stylesheet" href="../../../css/diz.css?v=003">       
+    <link rel="stylesheet" href="../../../slick/slick.css">
+    <link rel="stylesheet" href="../../../slick/slick-theme.css">     
+    <link rel="stylesheet" href="../../../css/jquery-ui.min.css">
+		<link rel="stylesheet" href="../../../gh/fancyapps/fancybox%403.5.7/dist/jquery.fancybox.min.css">
+    <link rel="shortcut icon" href="../../../img/favicon.png" type="image/x-icon">
+    <link href="../../../css-1?family=PT+Sans" rel="stylesheet">
+	<style>a:active, a:focus, .slick-slide:active, .slick-slide:focus { outline: none; }.main-menu .drop-menu{width: 300px;}</style>
+</head>
+<body>
+    
+    <!--wrapper begin-->
+	    <div class="wrapper services">
+			        <!--header begin-->
+        <header>
+            <div class="_cover">
+                <div class="feedback">
+                    <a href="../../../index.htm" class="logo"><img src="../../../img/logo.png" alt="Stimul IT"></a>
+                    <p class="e-mail">info@stimul-it.ru</p>
+                    <p class="e-work-hours">Пн-Пт с 9:00 до 19:00, Техподдержка: круглосуточно</p>
+                    <a href="tel: +73432047181" class="_e-tel">+7 (343) 204 71 81</a>
+                    
+                    
+                    <input type="checkbox" id="note-pum">
+                    <label for="note-pum">
+                        <i class="i-1"></i>
+                        <i class="i-2"></i>
+                        <i class="i-3"></i>
+                    </label>
+                    <div class="pop-up-menu">
+                    
+
+<ul>
+  <li class="">
+    <a href="../../index.htm" class="">Услуги</a>
+  </li>
+  <li class="mobile-toggle__wrap">
+    <a href="/stoimost/" class="mobile-toggle__link">Стоимость <img src="../../../img/icon-arrow-down.png"></a>
+    <ul class="drop-menus">
+      <li class="">
+        <a href="/stoimost/administrirovanie-serverov/" class="">Администрирование серверов</a>
+      </li>
+      <li class="">
+        <a href="/stoimost/137/" class="">Сервисное обслуживание компьютерной техники</a>
+      </li>
+      <li class="">
+        <a href="/stoimost/138/" class="">Виртуальная (облачная) АТС на базе Asterisk</a>
+      </li>
+      <li class="">
+        <a href="/stoimost/139/" class="">Аренда выделенного (физического) сервера</a>
+      </li>
+      <li class="">
+        <a href="/stoimost/140/" class="">Аренда сервера для 1С</a>
+      </li>
+      <li class="">
+        <a href="/stoimost/141/" class="">Аренда виртуального сервера</a>
+      </li>
+    </ul>
+  </li>
+  <li class="">
+    <a href="../../../o-kompanii/index.htm" class="">О компании</a>
+  </li>
+  <li class="">
+    <a href="../../../nashi-klienty/index.htm" class="">Наши клиенты</a>
+  </li>
+  <li class="">
+    <a href="../../../kontakty/index.htm" class="">Контакты</a>
+  </li>
+</ul>
+                        <p>info@stimul-it.ru</p>
+                        <p class="e-work-hours">Пн-Пт с 9:00 до 19:00, Техподдержка: круглосуточно</p>
+                        <label for="note-pu">Заказать звонок</label>
+                    </div>
+                </div>
+                <div class="main-menu">
+                    
+
+<ul>
+  <li class="active current note-drop-menu">
+    <a href="../../index.htm">Услуги<img src="../../../img/icon-arrow-down.png" alt="Icon | Down"></a>
+    <ul class="drop-menu">
+      <li class="">
+        <a href="../../it-autsorsing/administrirovanie-serverov/index.htm">Администрирование серверов</a>
+      </li>
+      <li class="">
+        <a href="../../it-autsorsing/servisnoe-obsluzhivanie-kompyuternoj-texniki/index.htm">Сервисное обслуживание компьютерной техники</a>
+      </li>
+      <li class="">
+        <a href="index.htm">Виртуальная (облачная) АТС на базе Asterisk </a>
+      </li>
+      <li class="">
+        <a href="../../arenda-serverov/arenda-vydelennogo-fizicheskogo-servera/index.htm">Аренда выделенного (физического) сервера</a>
+      </li>
+      <li class="">
+        <a href="../../arenda-serverov/arenda-servera-dlya-1s/index.htm">Аренда сервера для 1С</a>
+      </li>
+      <li class="">
+        <a href="../../arenda-serverov/arenda-virtualnogo-servera/index.htm">Аренда виртуального сервера</a>
+      </li>
+    </ul>
+  </li>
+  <li class="note-drop-menu">
+    <a href="/stoimost/">Стоимость<img src="../../../img/icon-arrow-down.png" alt="Icon | Down"></a>
+    <ul class="drop-menu">
+      <li class="">
+        <a href="/stoimost/administrirovanie-serverov/">Администрирование серверов</a>
+      </li>
+      <li class="">
+        <a href="/stoimost/137/">Сервисное обслуживание компьютерной техники</a>
+      </li>
+      <li class="">
+        <a href="/stoimost/138/">Виртуальная (облачная) АТС на базе Asterisk</a>
+      </li>
+      <li class="">
+        <a href="/stoimost/139/">Аренда выделенного (физического) сервера</a>
+      </li>
+      <li class="">
+        <a href="/stoimost/140/">Аренда сервера для 1С</a>
+      </li>
+      <li class="">
+        <a href="/stoimost/141/">Аренда виртуального сервера</a>
+      </li>
+    </ul>
+  </li>
+  <li class="">
+    <a href="../../../o-kompanii/index.htm">О компании</a>
+  </li>
+  <li class="">
+    <a href="../../../nashi-klienty/index.htm">Наши клиенты</a>
+  </li>
+  <li class="">
+    <a href="../../../kontakty/index.htm">Контакты</a>
+  </li>
+</ul>
+                    <label for="note-pu">Заказать звонок</label>
+                </div>
+            </div>
+        </header>
+        <!--header end-->
+        
+        <!--main-place begin-->
+        <div class="main-place">
+            <div class="_cover">
+                
+
+<ul class="mp-nav">
+  <li>
+    <a href="../../../index.htm">Главная</a>
+  </li>
+  <li>/</li>
+  <li>
+    <a href="../../index.htm">Услуги</a>
+    <li>/</li>
+    <li>
+      <a href="../index.htm">IP телефония</a>
+      <li>/</li>
+      <li>Виртуальная (облачная) АТС на базе Asterisk</li>
+    
+  
+</ul>
+					<h1>
+
+Виртуальная (облачная) АТС на базе Asterisk
+					</h1>
+            </div>
+        </div>
+        <!--main-place end-->
+				
+
+<div class="service"><div class="_cover"><p class="_phar"></p></div><div class="ready-solutions">
+<div class="_cover">
+<p class="_phar">Виртуальная АТС&nbsp;на&nbsp;базе Asterisk &ndash; это&nbsp;современное и&nbsp;масштабируемое решение для&nbsp;организации VoIP телефонии в&nbsp;офисе&nbsp;или распределённой филиальной сети.</p>
+<p class="_phar">Подключая услугу<span style="margin-right: 0.3em"> </span> <span style="margin-left: -0.3em">«Облачная</span> АТС», Вы&nbsp;получаете в&nbsp;пользование выделенный виртуальный сервер с&nbsp;IP АТС&nbsp;Asterisk. <strong>Стабильность работы телефонии</strong> достигается за&nbsp;счёт использования профессионального серверного оборудования и&nbsp;расположения мощностей в&nbsp;центре обработки данных стандарта TIER-3.&nbsp;</p>
+<p class="_phar">Платформа Asterisk не&nbsp;накладывает пакетных и&nbsp;коробочных ограничений на&nbsp;функционал АТС&nbsp;и&nbsp;имеет широкие возможности:</p>
+<ul>
+<li>
+<p class="_phar">коммутация вызовов по&nbsp;заданным правилам с&nbsp;гибкими схемами;</p>
+</li>
+<li>
+<p class="_phar">перевод, переадресация, перехват вызовов;</p>
+</li>
+<li>
+<p class="_phar">запись телефонных разговоров;</p>
+</li>
+<li>
+<p class="_phar">интерактивное голосовое меню<span style="margin-right: 0.3em"> </span> <span style="margin-left: -0.3em">(IVR</span>);</p>
+</li>
+<li>
+<p class="_phar">автоответчик, голосовая почта, отправка сообщений на&nbsp;электронную почту;</p>
+</li>
+<li>
+<p class="_phar">прием факсов на&nbsp;электронную почту, факс-сервер;</p>
+</li>
+<li>
+<p class="_phar">отчетность и&nbsp;статистика по&nbsp;звонкам;</p>
+</li>
+<li>
+<p class="_phar">возможность подключения к&nbsp;VoIP-провайдерам и&nbsp;операторам связи;</p>
+</li>
+<li>
+<p class="_phar">функции call-центра<span style="margin-right: 0.3em"> </span> <span style="margin-left: -0.3em">(постановка</span> вызовов в&nbsp;очередь и&nbsp;распределение по&nbsp;операторам);</p>
+</li>
+<li>
+<p class="_phar">подключение к&nbsp;традиционной телефонии посредством как&nbsp;аналоговых линий, так&nbsp;и&nbsp;потоков E1;</p>
+</li>
+<li>
+<p class="_phar">поддержка любых оконечных устройств<span style="margin-right: 0.3em"> </span> <span style="margin-left: -0.3em">(обычные</span> аналоговые, аппаратные и&nbsp;программные VoIP-телефоны);</p>
+</li>
+<li>
+<p class="_phar">объединение удалённых офисов в&nbsp;единую телефонную сеть, бесплатные звонки между филиалами;</p>
+</li>
+<li>
+<p class="_phar">интеграция с&nbsp;продуктами 1С, CRM-системами, Outlook др.</p>
+</li>
+</ul>
+<p class="services-bold-title" style="font-size: 42px;" id="czeni">Тарифы</p>
+<div class="v-fx-cards">
+<div class="v-card"><img src="../../../img/value-icon-3.png" alt="Мини">
+<p class="v-card-mt">Старт</p>
+<p class="p-quantity">До 10 абонентов в&nbsp;офисе</p>
+<p class="p-quantity">Включает полную техническую поддержку пользователей</p>
+<p class="v-card-price">1 500 ₽</p>
+<p class="red-p">в месяц</p>
+<label for="note-pu">Оформить заявку</label></div>
+<div class="v-card"><img src="../../../img/value-icon-4.png" alt="Стандарт">
+<p class="v-card-mt">Бизнес</p>
+<p class="p-quantity">До 20 абонентов в&nbsp;офисе</p>
+<p class="p-quantity">Включает полную техническую поддержку пользователей</p>
+<p class="v-card-price">2 000 ₽</p>
+<p class="red-p">в месяц</p>
+<label for="note-pu">Оформить заявку</label></div>
+<div class="v-card"><img src="../../../img/value-icon-5.png" alt="Бизнес">
+<p class="v-card-mt">Корпорация</p>
+<p class="p-quantity">От 30 абонентов, офисы в&nbsp;разных городах</p>
+<p class="p-quantity">Включает полную техническую поддержку пользователей</p>
+<p class="v-card-price">3 000 ₽</p>
+<p class="red-p">в месяц</p>
+<label for="note-pu">Оформить заявку</label></div>
+</div>
+</div>
+</div>
+<!--ready-solutions end-->
+<style><!--
+.ready-solutions ul li {list-style: disc;}
+.ready-solutions ul li p {margin-bottom: 15px;}
+._phar {text-align: left! important;}
+.v-card {padding: 40px 25px! important;}
+--></style></div>
+        
+        <!--form begin-->
+        <div class="form">
+            <div class="_cover">
+                <form action="#" method="post" class="_form form_block_cont">
+										<input name="form_description" type="hidden" value="Консультация с нашим техническим специалистом ">
+										<input name="form_url" type="hidden">
+										<input name="checking" type="hidden">
+                    <p class="form-main-title">
+                        Консультация с нашим специалистом
+                    </p>
+                    
+                    <p class="input-title">Ваше имя *</p>
+                    <input type="text" name="user_name" placeholder="Имя">
+                    
+                    <p class="input-title">Ваш телефон *</p>
+                    <input type="text" name="user_data" placeholder="Телефон">
+                    
+                    <input type="submit" value="Получить консультацию">
+										<div id="error_mes"></div> 
+                </form>
+                
+                <img src="../../../img/form-image.png" alt="Консультация с нашим техническим специалистом">
+            </div>
+        </div>
+        <!--form end-->
+        
+        <!--footer begin-->
+        <footer>
+            <div class="_cover">
+                <div class="f-block-1">
+                    <p class="footer-main-title">Свяжитесь с нами</p>
+                    <a href="tel:+73432047181">+7 (343) 204-71-81</a>
+                    <label for="note-pu">Заказать звонок</label>
+                    <p>info@stimul-it.ru</p>
+                    <p>ПН-ПТ с  9-00 до 19-00. <br> Техподдержка: круглосуточно.</p>
+                </div>
+                <div class="f-block-2">
+                    <p class="footer-sec-title he">ИТ-аутсорсинг</p>
+                    <ul class="he">
+                        <li><a href="../../it-autsorsing/administrirovanie-serverov/index.htm">Администрирование серверов</a></li>
+                        <li><a href="../../it-autsorsing/servisnoe-obsluzhivanie-kompyuternoj-texniki/index.htm">Сервисное обслуживание компьютерной техники</a></li>
+                        <li><a href="../../it-autsorsing/nastrojka-lokalnyx-setej-i-setevogo-oborudovaniya/index.htm">Настройка локальных сетей и сетевого оборудования</a></li>
+                    </ul>
+                    
+                    <p class="footer-sec-title he">Аренда серверов</p>
+                    <ul class="he">
+                        <li><a href="../../arenda-serverov/arenda-virtualnogo-servera/index.htm">Аренда виртуального сервера</a></li>
+                        <li><a href="../../arenda-serverov/arenda-vydelennogo-fizicheskogo-servera/index.htm">Аренда выделенного физического сервера</a></li>
+                        <li><a href="../../arenda-serverov/arenda-servera-dlya-1s/index.htm">Аренда сервера для 1С</a></li>
+                        <li><a href="../../arenda-serverov/migracziya-vashej-it-infrastruktury-v-oblako/index.htm">Миграция Вашей ИТ-инфраструктуры в "облако"</a></li>
+                    </ul>
+                </div>
+                <div class="f-block-3">
+                    <p class="footer-sec-title he">IP телефония</p>
+                    <ul class="he">
+                        <li><a href="../nastrojka-i-obsluzhivanie-ip-ats-asterisk/index.htm">Настройка и обслуживание IP АТС Asterisk</a></li>
+                        <li><a href="index.htm">Облачная (виртуальная) АТС на базе Asterisk</a></li>
+                        <li><a href="../organizacziya-korporativnoj-telefonnoj-seti/index.htm">Организация корпоративной телефонной сети</a></li>
+                    </ul>
+                    
+                    
+
+<ul>
+  <li>
+    <a href="../../index.htm">Услуги</a>
+  </li>
+  <li>
+    <a href="/stoimost/">Стоимость</a>
+  </li>
+  <li>
+    <a href="../../../o-kompanii/index.htm">О компании</a>
+  </li>
+  <li>
+    <a href="../../../nashi-klienty/index.htm">Наши клиенты</a>
+  </li>
+  <li>
+    <a href="../../../kontakty/index.htm">Контакты</a>
+  </li>
+</ul>
+                </div>
+            </div>
+            <a style="color:transparent;" href="http://www.hostcms.ru" target="_blank">HostCMS</a>
+            <p>Создание и продвижение сайтов <a href="http://aaccent.ru" rel="nofollow" target="_blank">aAccent</a></p>
+        </footer>
+        <!--footer end-->
+    </div>
+    <!--wrapper end-->
+    
+    
+    <!--POP-UP begin-->
+    <input type="checkbox" id="note-pu">
+    <label for="note-pu" class="__white-cover__"></label>
+    <div class="pop-up-form">
+        <form action="#" method="post" class="_form form_block_cont">
+										<input name="form_description" type="hidden" value="Консультация с нашим техническим специалистом ">
+										<input name="form_url" type="hidden">
+										<input name="checking" type="hidden">
+                    <p class="form-main-title">
+                        Консультация с нашим специалистом
+                    </p>
+                    
+                    <p class="input-title">Ваше имя *</p>
+                    <input type="text" name="user_name" placeholder="Имя">
+                    
+                    <p class="input-title">Ваш телефон *</p>
+                    <input type="text" name="user_data" placeholder="Телефон">
+                    
+                    <input type="submit" value="Получить консультацию">
+										<div id="error_mes"></div> 
+        </form>
+        
+        <label for="note-pu" class="close-puf"></label>
+    </div>
+    <!--POP-UP end-->
+    
+    <!--
+        JS
+          -->
+    <script src="../../../ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="../../../js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="../../../slick/slick.min.js" type="text/javascript"></script>
+    <script src="../../../js/main.js" type="text/javascript"></script>
+		<script src="../../../gh/fancyapps/fancybox%403.5.7/dist/jquery.fancybox.min.js"></script>
+    <script src="../../../script.js" type="text/javascript"></script>
+		
+		<script>
+			/*const mobileToggleLink = document.querySelector('.mobile-toggle__link');
+			
+			mobileToggleLink.addEventListener('click', (e) => {
+				e.preventDefault();
+			});*/
+			
+			$('.mobile-toggle__link').on('click', function(e) {
+				e.preventDefault();
+				$(this).toggleClass('active');
+				$(this).siblings('.drop-menus').slideToggle();
+			});
+		</script>
+			
+			<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(67126864, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="../../../watch/67126864" style="position:absolute; left:-9999px;" alt=""></div></noscript>
+<!-- /Yandex.Metrika counter -->
+			<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="../../../gtag/js?id=UA-128474290-19"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-128474290-19');
+</script>
+
+</body>
+</html>

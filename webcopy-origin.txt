@@ -1,0 +1,576 @@
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js
+File Name: C:\Downloaded Web Sites\stimul-it.ru\ajax\libs\jquery\3.2.1\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor:44a8f3bacfa8b842a06a0580ba8ea660babc6bc032526f23c1548626549e6c1f&width=100%25&height=300&lang=ru_RU&scroll=true
+File Name: C:\Downloaded Web Sites\stimul-it.ru\services\constructor\1.0\js\index.htm
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css
+File Name: C:\Downloaded Web Sites\stimul-it.ru\gh\fancyapps\fancybox@3.5.7\dist\jquery.fancybox.min.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js
+File Name: C:\Downloaded Web Sites\stimul-it.ru\gh\fancyapps\fancybox@3.5.7\dist\jquery.fancybox.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css?family=PT+Sans
+File Name: C:\Downloaded Web Sites\stimul-it.ru\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/ptsans/v17/jizaRExUiTo99u79D0KEwA.ttf
+File Name: C:\Downloaded Web Sites\stimul-it.ru\s\ptsans\v17\jizaRExUiTo99u79D0KEwA.ttf
+Content Type: font/ttf
+
+Uri: https://mc.yandex.ru/watch/67126864
+File Name: C:\Downloaded Web Sites\stimul-it.ru\watch\67126864
+Content Type: image/gif
+
+Uri: https://stimul-it.ru/
+File Name: C:\Downloaded Web Sites\stimul-it.ru\index.htm
+Content Type: text/html
+
+Uri: https://stimul-it.ru/css/diz.css?v=003
+File Name: C:\Downloaded Web Sites\stimul-it.ru\css\diz.css
+Content Type: text/css
+
+Uri: https://stimul-it.ru/css/images/ui-icons_444444_256x240.png
+File Name: C:\Downloaded Web Sites\stimul-it.ru\css\images\ui-icons_444444_256x240.png
+Content Type: image/png
+
+Uri: https://stimul-it.ru/css/images/ui-icons_555555_256x240.png
+File Name: C:\Downloaded Web Sites\stimul-it.ru\css\images\ui-icons_555555_256x240.png
+Content Type: image/png
+
+Uri: https://stimul-it.ru/css/images/ui-icons_777620_256x240.png
+File Name: C:\Downloaded Web Sites\stimul-it.ru\css\images\ui-icons_777620_256x240.png
+Content Type: image/png
+
+Uri: https://stimul-it.ru/css/images/ui-icons_777777_256x240.png
+File Name: C:\Downloaded Web Sites\stimul-it.ru\css\images\ui-icons_777777_256x240.png
+Content Type: image/png
+
+Uri: https://stimul-it.ru/css/images/ui-icons_cc0000_256x240.png
+File Name: C:\Downloaded Web Sites\stimul-it.ru\css\images\ui-icons_cc0000_256x240.png
+Content Type: image/png
+
+Uri: https://stimul-it.ru/css/images/ui-icons_ffffff_256x240.png
+File Name: C:\Downloaded Web Sites\stimul-it.ru\css\images\ui-icons_ffffff_256x240.png
+Content Type: image/png
+
+Uri: https://stimul-it.ru/css/jquery-ui.min.css
+File Name: C:\Downloaded Web Sites\stimul-it.ru\css\jquery-ui.min.css
+Content Type: text/css
+
+Uri: https://stimul-it.ru/css/main.css?v=003
+File Name: C:\Downloaded Web Sites\stimul-it.ru\css\main.css
+Content Type: text/css
+
+Uri: https://stimul-it.ru/images/appointment.png
+File Name: C:\Downloaded Web Sites\stimul-it.ru\images\appointment.png
+Content Type: image/png
+
+Uri: https://stimul-it.ru/images/calculator-laptop.png
+File Name: C:\Downloaded Web Sites\stimul-it.ru\images\calculator-laptop.png
+Content Type: image/png
+
+Uri: https://stimul-it.ru/images/calculator-server.png
+File Name: C:\Downloaded Web Sites\stimul-it.ru\images\calculator-server.png
+Content Type: image/png
+
+Uri: https://stimul-it.ru/images/computer-servise-features11.png
+File Name: C:\Downloaded Web Sites\stimul-it.ru\images\computer-servise-features11.png
+Content Type: image/png
+
+Uri: https://stimul-it.ru/images/computer-servise-features22.png
+File Name: C:\Downloaded Web Sites\stimul-it.ru\images\computer-servise-features22.png
+Content Type: image/png
+
+Uri: https://stimul-it.ru/images/computer-servise-features33.png
+File Name: C:\Downloaded Web Sites\stimul-it.ru\images\computer-servise-features33.png
+Content Type: image/png
+
+Uri: https://stimul-it.ru/images/computer-servise-it2.png
+File Name: C:\Downloaded Web Sites\stimul-it.ru\images\computer-servise-it2.png
+Content Type: image/png
+
+Uri: https://stimul-it.ru/images/computer-servise-it3.png
+File Name: C:\Downloaded Web Sites\stimul-it.ru\images\computer-servise-it3.png
+Content Type: image/png
+
+Uri: https://stimul-it.ru/images/computer-servise-it4.png
+File Name: C:\Downloaded Web Sites\stimul-it.ru\images\computer-servise-it4.png
+Content Type: image/png
+
+Uri: https://stimul-it.ru/images/computer.png
+File Name: C:\Downloaded Web Sites\stimul-it.ru\images\computer.png
+Content Type: image/png
+
+Uri: https://stimul-it.ru/images/how-to-teh1.png
+File Name: C:\Downloaded Web Sites\stimul-it.ru\images\how-to-teh1.png
+Content Type: image/png
+
+Uri: https://stimul-it.ru/images/how-to-teh2.png
+File Name: C:\Downloaded Web Sites\stimul-it.ru\images\how-to-teh2.png
+Content Type: image/png
+
+Uri: https://stimul-it.ru/images/how-to-teh3.png
+File Name: C:\Downloaded Web Sites\stimul-it.ru\images\how-to-teh3.png
+Content Type: image/png
+
+Uri: https://stimul-it.ru/images/intro-tooltip.png
+File Name: C:\Downloaded Web Sites\stimul-it.ru\images\intro-tooltip.png
+Content Type: image/png
+
+Uri: https://stimul-it.ru/images/partner.png
+File Name: C:\Downloaded Web Sites\stimul-it.ru\images\partner.png
+Content Type: image/png
+
+Uri: https://stimul-it.ru/img/advantages-icon-1.png
+File Name: C:\Downloaded Web Sites\stimul-it.ru\img\advantages-icon-1.png
+Content Type: image/png
+
+Uri: https://stimul-it.ru/img/advantages-icon-2.png
+File Name: C:\Downloaded Web Sites\stimul-it.ru\img\advantages-icon-2.png
+Content Type: image/png
+
+Uri: https://stimul-it.ru/img/advantages-icon-3.png
+File Name: C:\Downloaded Web Sites\stimul-it.ru\img\advantages-icon-3.png
+Content Type: image/png
+
+Uri: https://stimul-it.ru/img/a_company_image.jpg
+File Name: C:\Downloaded Web Sites\stimul-it.ru\img\a_company_image.jpg
+Content Type: image/jpeg
+
+Uri: https://stimul-it.ru/img/bg-footer.png
+File Name: C:\Downloaded Web Sites\stimul-it.ru\img\bg-footer.png
+Content Type: image/png
+
+Uri: https://stimul-it.ru/img/bg-footer.svg
+File Name: C:\Downloaded Web Sites\stimul-it.ru\img\bg-footer.svg
+Content Type: image/svg+xml
+
+Uri: https://stimul-it.ru/img/bg-main-place.png
+File Name: C:\Downloaded Web Sites\stimul-it.ru\img\bg-main-place.png
+Content Type: image/png
+
+Uri: https://stimul-it.ru/img/bg-mp-slider-1.jpg
+File Name: C:\Downloaded Web Sites\stimul-it.ru\img\bg-mp-slider-1.jpg
+Content Type: image/jpeg
+
+Uri: https://stimul-it.ru/img/bg-mp-slider-2.jpg
+File Name: C:\Downloaded Web Sites\stimul-it.ru\img\bg-mp-slider-2.jpg
+Content Type: image/jpeg
+
+Uri: https://stimul-it.ru/img/bg-mp-slider-3.jpg
+File Name: C:\Downloaded Web Sites\stimul-it.ru\img\bg-mp-slider-3.jpg
+Content Type: image/jpeg
+
+Uri: https://stimul-it.ru/img/bg_blue.svg
+File Name: C:\Downloaded Web Sites\stimul-it.ru\img\bg_blue.svg
+Content Type: image/svg+xml
+
+Uri: https://stimul-it.ru/img/bg_blue_1.svg
+File Name: C:\Downloaded Web Sites\stimul-it.ru\img\bg_blue_1.svg
+Content Type: image/svg+xml
+
+Uri: https://stimul-it.ru/img/bg_dark_blue.svg
+File Name: C:\Downloaded Web Sites\stimul-it.ru\img\bg_dark_blue.svg
+Content Type: image/svg+xml
+
+Uri: https://stimul-it.ru/img/bg_form.svg
+File Name: C:\Downloaded Web Sites\stimul-it.ru\img\bg_form.svg
+Content Type: image/svg+xml
+
+Uri: https://stimul-it.ru/img/bg_white.svg
+File Name: C:\Downloaded Web Sites\stimul-it.ru\img\bg_white.svg
+Content Type: image/svg+xml
+
+Uri: https://stimul-it.ru/img/bg_white_1.svg
+File Name: C:\Downloaded Web Sites\stimul-it.ru\img\bg_white_1.svg
+Content Type: image/svg+xml
+
+Uri: https://stimul-it.ru/img/contacts-new-icon-1.png
+File Name: C:\Downloaded Web Sites\stimul-it.ru\img\contacts-new-icon-1.png
+Content Type: image/png
+
+Uri: https://stimul-it.ru/img/contacts-new-icon-2.png
+File Name: C:\Downloaded Web Sites\stimul-it.ru\img\contacts-new-icon-2.png
+Content Type: image/png
+
+Uri: https://stimul-it.ru/img/contacts-new-icon-3.png
+File Name: C:\Downloaded Web Sites\stimul-it.ru\img\contacts-new-icon-3.png
+Content Type: image/png
+
+Uri: https://stimul-it.ru/img/favicon.png
+File Name: C:\Downloaded Web Sites\stimul-it.ru\img\favicon.png
+Content Type: image/png
+
+Uri: https://stimul-it.ru/img/form-image.png
+File Name: C:\Downloaded Web Sites\stimul-it.ru\img\form-image.png
+Content Type: image/png
+
+Uri: https://stimul-it.ru/img/icon-arrow-down.png
+File Name: C:\Downloaded Web Sites\stimul-it.ru\img\icon-arrow-down.png
+Content Type: image/png
+
+Uri: https://stimul-it.ru/img/icon-arrow-left-hover.png
+File Name: C:\Downloaded Web Sites\stimul-it.ru\img\icon-arrow-left-hover.png
+Content Type: image/png
+
+Uri: https://stimul-it.ru/img/icon-arrow-left.png
+File Name: C:\Downloaded Web Sites\stimul-it.ru\img\icon-arrow-left.png
+Content Type: image/png
+
+Uri: https://stimul-it.ru/img/icon-arrow-right-1.png
+File Name: C:\Downloaded Web Sites\stimul-it.ru\img\icon-arrow-right-1.png
+Content Type: image/png
+
+Uri: https://stimul-it.ru/img/icon-arrow-right-2.png
+File Name: C:\Downloaded Web Sites\stimul-it.ru\img\icon-arrow-right-2.png
+Content Type: image/png
+
+Uri: https://stimul-it.ru/img/icon-arrow-right-hover.png
+File Name: C:\Downloaded Web Sites\stimul-it.ru\img\icon-arrow-right-hover.png
+Content Type: image/png
+
+Uri: https://stimul-it.ru/img/icon-arrow-right.png
+File Name: C:\Downloaded Web Sites\stimul-it.ru\img\icon-arrow-right.png
+Content Type: image/png
+
+Uri: https://stimul-it.ru/img/icon-close-pop-up-form-blue.png
+File Name: C:\Downloaded Web Sites\stimul-it.ru\img\icon-close-pop-up-form-blue.png
+Content Type: image/png
+
+Uri: https://stimul-it.ru/img/icon-close-pop-up-form.png
+File Name: C:\Downloaded Web Sites\stimul-it.ru\img\icon-close-pop-up-form.png
+Content Type: image/png
+
+Uri: https://stimul-it.ru/img/icon-discount.png
+File Name: C:\Downloaded Web Sites\stimul-it.ru\img\icon-discount.png
+Content Type: image/png
+
+Uri: https://stimul-it.ru/img/icon-list-image.png
+File Name: C:\Downloaded Web Sites\stimul-it.ru\img\icon-list-image.png
+Content Type: image/png
+
+Uri: https://stimul-it.ru/img/icon-mail-1.png
+File Name: C:\Downloaded Web Sites\stimul-it.ru\img\icon-mail-1.png
+Content Type: image/png
+
+Uri: https://stimul-it.ru/img/icon-mail.png
+File Name: C:\Downloaded Web Sites\stimul-it.ru\img\icon-mail.png
+Content Type: image/png
+
+Uri: https://stimul-it.ru/img/icon-tel.png
+File Name: C:\Downloaded Web Sites\stimul-it.ru\img\icon-tel.png
+Content Type: image/png
+
+Uri: https://stimul-it.ru/img/icon-time-1.png
+File Name: C:\Downloaded Web Sites\stimul-it.ru\img\icon-time-1.png
+Content Type: image/png
+
+Uri: https://stimul-it.ru/img/icon-time.png
+File Name: C:\Downloaded Web Sites\stimul-it.ru\img\icon-time.png
+Content Type: image/png
+
+Uri: https://stimul-it.ru/img/icon-white-block.png
+File Name: C:\Downloaded Web Sites\stimul-it.ru\img\icon-white-block.png
+Content Type: image/png
+
+Uri: https://stimul-it.ru/img/icon-zoom.png
+File Name: C:\Downloaded Web Sites\stimul-it.ru\img\icon-zoom.png
+Content Type: image/png
+
+Uri: https://stimul-it.ru/img/individ_project_image.png
+File Name: C:\Downloaded Web Sites\stimul-it.ru\img\individ_project_image.png
+Content Type: image/png
+
+Uri: https://stimul-it.ru/img/logo.png
+File Name: C:\Downloaded Web Sites\stimul-it.ru\img\logo.png
+Content Type: image/png
+
+Uri: https://stimul-it.ru/img/main_place_image.png
+File Name: C:\Downloaded Web Sites\stimul-it.ru\img\main_place_image.png
+Content Type: image/png
+
+Uri: https://stimul-it.ru/img/Mikrotik_logo.png
+File Name: C:\Downloaded Web Sites\stimul-it.ru\img\Mikrotik_logo.png
+Content Type: image/png
+
+Uri: https://stimul-it.ru/img/our_values_image.png
+File Name: C:\Downloaded Web Sites\stimul-it.ru\img\our_values_image.png
+Content Type: image/png
+
+Uri: https://stimul-it.ru/img/popular-brand-2.png
+File Name: C:\Downloaded Web Sites\stimul-it.ru\img\popular-brand-2.png
+Content Type: image/png
+
+Uri: https://stimul-it.ru/img/popular-brand-3.png
+File Name: C:\Downloaded Web Sites\stimul-it.ru\img\popular-brand-3.png
+Content Type: image/png
+
+Uri: https://stimul-it.ru/img/popular-brand-4.png
+File Name: C:\Downloaded Web Sites\stimul-it.ru\img\popular-brand-4.png
+Content Type: image/png
+
+Uri: https://stimul-it.ru/img/project-asterix.png
+File Name: C:\Downloaded Web Sites\stimul-it.ru\img\project-asterix.png
+Content Type: image/png
+
+Uri: https://stimul-it.ru/img/qq.png
+File Name: C:\Downloaded Web Sites\stimul-it.ru\img\qq.png
+Content Type: image/png
+
+Uri: https://stimul-it.ru/img/service_blue_bg.svg
+File Name: C:\Downloaded Web Sites\stimul-it.ru\img\service_blue_bg.svg
+Content Type: image/svg+xml
+
+Uri: https://stimul-it.ru/img/service_dark_blue_bg.svg
+File Name: C:\Downloaded Web Sites\stimul-it.ru\img\service_dark_blue_bg.svg
+Content Type: image/svg+xml
+
+Uri: https://stimul-it.ru/img/value-icon-2.png
+File Name: C:\Downloaded Web Sites\stimul-it.ru\img\value-icon-2.png
+Content Type: image/png
+
+Uri: https://stimul-it.ru/img/value-icon-3.png
+File Name: C:\Downloaded Web Sites\stimul-it.ru\img\value-icon-3.png
+Content Type: image/png
+
+Uri: https://stimul-it.ru/img/value-icon-4.png
+File Name: C:\Downloaded Web Sites\stimul-it.ru\img\value-icon-4.png
+Content Type: image/png
+
+Uri: https://stimul-it.ru/img/value-icon-5.png
+File Name: C:\Downloaded Web Sites\stimul-it.ru\img\value-icon-5.png
+Content Type: image/png
+
+Uri: https://stimul-it.ru/img/wp-icon-1.png
+File Name: C:\Downloaded Web Sites\stimul-it.ru\img\wp-icon-1.png
+Content Type: image/png
+
+Uri: https://stimul-it.ru/img/wp-icon-2.png
+File Name: C:\Downloaded Web Sites\stimul-it.ru\img\wp-icon-2.png
+Content Type: image/png
+
+Uri: https://stimul-it.ru/img/wp-icon-3.png
+File Name: C:\Downloaded Web Sites\stimul-it.ru\img\wp-icon-3.png
+Content Type: image/png
+
+Uri: https://stimul-it.ru/img/_main_place_bg.svg
+File Name: C:\Downloaded Web Sites\stimul-it.ru\img\_main_place_bg.svg
+Content Type: image/svg+xml
+
+Uri: https://stimul-it.ru/img/_main_place_bg_1.svg
+File Name: C:\Downloaded Web Sites\stimul-it.ru\img\_main_place_bg_1.svg
+Content Type: image/svg+xml
+
+Uri: https://stimul-it.ru/js/jquery-ui.min.js
+File Name: C:\Downloaded Web Sites\stimul-it.ru\js\jquery-ui.min.js
+Content Type: application/javascript
+
+Uri: https://stimul-it.ru/js/main.js
+File Name: C:\Downloaded Web Sites\stimul-it.ru\js\main.js
+Content Type: application/javascript
+
+Uri: https://stimul-it.ru/kontakty/
+File Name: C:\Downloaded Web Sites\stimul-it.ru\kontakty\index.htm
+Content Type: text/html
+
+Uri: https://stimul-it.ru/nashi-klienty/
+File Name: C:\Downloaded Web Sites\stimul-it.ru\nashi-klienty\index.htm
+Content Type: text/html
+
+Uri: https://stimul-it.ru/o-kompanii/
+File Name: C:\Downloaded Web Sites\stimul-it.ru\o-kompanii\index.htm
+Content Type: text/html
+
+Uri: https://stimul-it.ru/script.js
+File Name: C:\Downloaded Web Sites\stimul-it.ru\script.js
+Content Type: application/javascript
+
+Uri: https://stimul-it.ru/slick/ajax-loader.gif
+File Name: C:\Downloaded Web Sites\stimul-it.ru\slick\ajax-loader.gif
+Content Type: image/gif
+
+Uri: https://stimul-it.ru/slick/fonts/slick.eot
+File Name: C:\Downloaded Web Sites\stimul-it.ru\slick\fonts\slick.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://stimul-it.ru/slick/fonts/slick.eot?
+File Name: C:\Downloaded Web Sites\stimul-it.ru\slick\fonts\slick-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://stimul-it.ru/slick/fonts/slick.svg
+File Name: C:\Downloaded Web Sites\stimul-it.ru\slick\fonts\slick.svg
+Content Type: image/svg+xml
+
+Uri: https://stimul-it.ru/slick/fonts/slick.ttf
+File Name: C:\Downloaded Web Sites\stimul-it.ru\slick\fonts\slick.ttf
+Content Type: font/ttf
+
+Uri: https://stimul-it.ru/slick/fonts/slick.woff
+File Name: C:\Downloaded Web Sites\stimul-it.ru\slick\fonts\slick.woff
+Content Type: font/woff
+
+Uri: https://stimul-it.ru/slick/slick-theme.css
+File Name: C:\Downloaded Web Sites\stimul-it.ru\slick\slick-theme.css
+Content Type: text/css
+
+Uri: https://stimul-it.ru/slick/slick.css
+File Name: C:\Downloaded Web Sites\stimul-it.ru\slick\slick.css
+Content Type: text/css
+
+Uri: https://stimul-it.ru/slick/slick.min.js
+File Name: C:\Downloaded Web Sites\stimul-it.ru\slick\slick.min.js
+Content Type: application/javascript
+
+Uri: https://stimul-it.ru/upload/information_system_16/1/5/6/item_156/item_156.png
+File Name: C:\Downloaded Web Sites\stimul-it.ru\upload\information_system_16\1\5\6\item_156\item_156.png
+Content Type: image/png
+
+Uri: https://stimul-it.ru/upload/information_system_17/1/5/9/item_159/small_item_159.png
+File Name: C:\Downloaded Web Sites\stimul-it.ru\upload\information_system_17\1\5\9\item_159\small_item_159.png
+Content Type: image/png
+
+Uri: https://stimul-it.ru/upload/information_system_17/1/6/0/item_160/small_item_160.png
+File Name: C:\Downloaded Web Sites\stimul-it.ru\upload\information_system_17\1\6\0\item_160\small_item_160.png
+Content Type: image/png
+
+Uri: https://stimul-it.ru/upload/information_system_17/1/6/2/item_162/small_item_162.png
+File Name: C:\Downloaded Web Sites\stimul-it.ru\upload\information_system_17\1\6\2\item_162\small_item_162.png
+Content Type: image/png
+
+Uri: https://stimul-it.ru/upload/information_system_17/1/6/3/item_163/small_item_163.png
+File Name: C:\Downloaded Web Sites\stimul-it.ru\upload\information_system_17\1\6\3\item_163\small_item_163.png
+Content Type: image/png
+
+Uri: https://stimul-it.ru/upload/information_system_17/1/6/4/item_164/small_item_164.png
+File Name: C:\Downloaded Web Sites\stimul-it.ru\upload\information_system_17\1\6\4\item_164\small_item_164.png
+Content Type: image/png
+
+Uri: https://stimul-it.ru/upload/information_system_17/1/6/5/item_165/small_item_165.png
+File Name: C:\Downloaded Web Sites\stimul-it.ru\upload\information_system_17\1\6\5\item_165\small_item_165.png
+Content Type: image/png
+
+Uri: https://stimul-it.ru/upload/information_system_17/1/7/0/item_170/small_item_170.png
+File Name: C:\Downloaded Web Sites\stimul-it.ru\upload\information_system_17\1\7\0\item_170\small_item_170.png
+Content Type: image/png
+
+Uri: https://stimul-it.ru/upload/information_system_17/1/7/3/item_173/small_item_173.png
+File Name: C:\Downloaded Web Sites\stimul-it.ru\upload\information_system_17\1\7\3\item_173\small_item_173.png
+Content Type: image/png
+
+Uri: https://stimul-it.ru/upload/information_system_18/1/6/9/item_169/item_169.jpg
+File Name: C:\Downloaded Web Sites\stimul-it.ru\upload\information_system_18\1\6\9\item_169\item_169.jpg
+Content Type: image/jpeg
+
+Uri: https://stimul-it.ru/upload/information_system_18/1/8/1/item_181/item_181.jpg
+File Name: C:\Downloaded Web Sites\stimul-it.ru\upload\information_system_18\1\8\1\item_181\item_181.jpg
+Content Type: image/jpeg
+
+Uri: https://stimul-it.ru/upload/information_system_18/1/8/3/item_183/item_183.jpg
+File Name: C:\Downloaded Web Sites\stimul-it.ru\upload\information_system_18\1\8\3\item_183\item_183.jpg
+Content Type: image/jpeg
+
+Uri: https://stimul-it.ru/upload/shop_4/1/8/1/item_181/small_item_181.jpg
+File Name: C:\Downloaded Web Sites\stimul-it.ru\upload\shop_4\1\8\1\item_181\small_item_181.jpg
+Content Type: image/jpeg
+
+Uri: https://stimul-it.ru/upload/shop_4/1/8/2/item_182/small_item_182.jpg
+File Name: C:\Downloaded Web Sites\stimul-it.ru\upload\shop_4\1\8\2\item_182\small_item_182.jpg
+Content Type: image/jpeg
+
+Uri: https://stimul-it.ru/upload/shop_4/1/8/3/item_183/small_item_183.jpg
+File Name: C:\Downloaded Web Sites\stimul-it.ru\upload\shop_4\1\8\3\item_183\small_item_183.jpg
+Content Type: image/jpeg
+
+Uri: https://stimul-it.ru/upload/shop_4/1/8/4/item_184/small_item_184.jpg
+File Name: C:\Downloaded Web Sites\stimul-it.ru\upload\shop_4\1\8\4\item_184\small_item_184.jpg
+Content Type: image/jpeg
+
+Uri: https://stimul-it.ru/upload/shop_4/1/8/5/item_185/small_item_185.jpg
+File Name: C:\Downloaded Web Sites\stimul-it.ru\upload\shop_4\1\8\5\item_185\small_item_185.jpg
+Content Type: image/jpeg
+
+Uri: https://stimul-it.ru/upload/shop_4/1/8/6/item_186/small_item_186.jpg
+File Name: C:\Downloaded Web Sites\stimul-it.ru\upload\shop_4\1\8\6\item_186\small_item_186.jpg
+Content Type: image/jpeg
+
+Uri: https://stimul-it.ru/upload/shop_4/1/8/8/item_188/small_item_181.jpg
+File Name: C:\Downloaded Web Sites\stimul-it.ru\upload\shop_4\1\8\8\item_188\small_item_181.jpg
+Content Type: image/jpeg
+
+Uri: https://stimul-it.ru/upload/shop_4/1/8/9/item_189/small_item_182.jpg
+File Name: C:\Downloaded Web Sites\stimul-it.ru\upload\shop_4\1\8\9\item_189\small_item_182.jpg
+Content Type: image/jpeg
+
+Uri: https://stimul-it.ru/upload/shop_4/1/9/0/item_190/small_item_185.jpg
+File Name: C:\Downloaded Web Sites\stimul-it.ru\upload\shop_4\1\9\0\item_190\small_item_185.jpg
+Content Type: image/jpeg
+
+Uri: https://stimul-it.ru/upload/shop_4/1/9/1/item_191/small_item_191.jpg
+File Name: C:\Downloaded Web Sites\stimul-it.ru\upload\shop_4\1\9\1\item_191\small_item_191.jpg
+Content Type: image/jpeg
+
+Uri: https://stimul-it.ru/uslugi/
+File Name: C:\Downloaded Web Sites\stimul-it.ru\uslugi\index.htm
+Content Type: text/html
+
+Uri: https://stimul-it.ru/uslugi/arenda-serverov/
+File Name: C:\Downloaded Web Sites\stimul-it.ru\uslugi\arenda-serverov\index.htm
+Content Type: text/html
+
+Uri: https://stimul-it.ru/uslugi/arenda-serverov/arenda-servera-dlya-1s/
+File Name: C:\Downloaded Web Sites\stimul-it.ru\uslugi\arenda-serverov\arenda-servera-dlya-1s\index.htm
+Content Type: text/html
+
+Uri: https://stimul-it.ru/uslugi/arenda-serverov/arenda-virtualnogo-servera/
+File Name: C:\Downloaded Web Sites\stimul-it.ru\uslugi\arenda-serverov\arenda-virtualnogo-servera\index.htm
+Content Type: text/html
+
+Uri: https://stimul-it.ru/uslugi/arenda-serverov/arenda-vydelennogo-fizicheskogo-servera/
+File Name: C:\Downloaded Web Sites\stimul-it.ru\uslugi\arenda-serverov\arenda-vydelennogo-fizicheskogo-servera\index.htm
+Content Type: text/html
+
+Uri: https://stimul-it.ru/uslugi/arenda-serverov/migracziya-vashej-it-infrastruktury-v-oblako/
+File Name: C:\Downloaded Web Sites\stimul-it.ru\uslugi\arenda-serverov\migracziya-vashej-it-infrastruktury-v-oblako\index.htm
+Content Type: text/html
+
+Uri: https://stimul-it.ru/uslugi/ip-telefoniya/
+File Name: C:\Downloaded Web Sites\stimul-it.ru\uslugi\ip-telefoniya\index.htm
+Content Type: text/html
+
+Uri: https://stimul-it.ru/uslugi/ip-telefoniya/nastrojka-i-obsluzhivanie-ip-ats-asterisk/
+File Name: C:\Downloaded Web Sites\stimul-it.ru\uslugi\ip-telefoniya\nastrojka-i-obsluzhivanie-ip-ats-asterisk\index.htm
+Content Type: text/html
+
+Uri: https://stimul-it.ru/uslugi/ip-telefoniya/organizacziya-korporativnoj-telefonnoj-seti/
+File Name: C:\Downloaded Web Sites\stimul-it.ru\uslugi\ip-telefoniya\organizacziya-korporativnoj-telefonnoj-seti\index.htm
+Content Type: text/html
+
+Uri: https://stimul-it.ru/uslugi/ip-telefoniya/virtualnaya-oblachnaya-ats-na-baze-asterisk/
+File Name: C:\Downloaded Web Sites\stimul-it.ru\uslugi\ip-telefoniya\virtualnaya-oblachnaya-ats-na-baze-asterisk\index.htm
+Content Type: text/html
+
+Uri: https://stimul-it.ru/uslugi/it-autsorsing/
+File Name: C:\Downloaded Web Sites\stimul-it.ru\uslugi\it-autsorsing\index.htm
+Content Type: text/html
+
+Uri: https://stimul-it.ru/uslugi/it-autsorsing/administrirovanie-serverov/
+File Name: C:\Downloaded Web Sites\stimul-it.ru\uslugi\it-autsorsing\administrirovanie-serverov\index.htm
+Content Type: text/html
+
+Uri: https://stimul-it.ru/uslugi/it-autsorsing/nastrojka-lokalnyx-setej-i-setevogo-oborudovaniya/
+File Name: C:\Downloaded Web Sites\stimul-it.ru\uslugi\it-autsorsing\nastrojka-lokalnyx-setej-i-setevogo-oborudovaniya\index.htm
+Content Type: text/html
+
+Uri: https://stimul-it.ru/uslugi/it-autsorsing/servisnoe-obsluzhivanie-kompyuternoj-texniki/
+File Name: C:\Downloaded Web Sites\stimul-it.ru\uslugi\it-autsorsing\servisnoe-obsluzhivanie-kompyuternoj-texniki\index.htm
+Content Type: text/html
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-128474290-19
+File Name: C:\Downloaded Web Sites\stimul-it.ru\gtag\js
+Content Type: application/javascript
+
