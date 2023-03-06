@@ -1,0 +1,65 @@
+#error_mes p{
+	font-size: 16px;
+    background: #e93e46;
+    color: #fff;
+    line-height: 2;
+    max-width: 350px;
+    padding: 0 20px;
+}
+.costing-fx li p:last-child {
+    font-weight: 200;
+}
+.os-block-btns .os-block {
+    display: inline-block;
+    vertical-align: top;
+}
+.os-block-btns .os-block-costt{
+    display: inline-block;
+    margin: 35px 30px 0;
+    vertical-align: top;
+}
+.os-block-btns .os-block-costt span{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+ul li {
+margin: 10px 0;
+}
+
+
+@media screen and (max-width: 450px){
+.main-place .slick-track{
+transform: translate3d(0px, 0px, 0px) !important;
+}
+
+.main-place div._extra_main_title{
+font-size: 30px;
+padding: 25px 0 30px 0;
+}
+
+.altered-tabs ul li{
+width: 100%;
+}
+
+.altered-tabs ul a{
+width: 100% !important;
+border-bottom: 1px solid #C4C4C4  !important;
+}
+
+}
+
+@media screen and (min-width: 768px){
+.altered-slider .center .slick-current::before {
+    left: calc( 50% - 50px );
+}
+}
+
+
+div.our-values{
+min-height: 1041px;
+}
+
+.v-card p {
+  width: calc(100% - 85px);
+}
